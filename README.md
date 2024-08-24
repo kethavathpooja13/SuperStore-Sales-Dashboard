@@ -1,5 +1,7 @@
-![Screenshot 2024-08-23 142144](https://github.com/user-attachments/assets/6ba84077-bfc3-4bf3-8883-cd523579cea2)
-![Uploading Screenshot 2024-08-24 145245.png…]()
+![Screenshot 2024-08-24 145245](https://github.com/user-attachments/assets/977197d5-2ca7-4ee0-b8f1-0c1b47778351)![Screenshot 2024-08-23 142144](https://github.com/user-attachments/assets/6ba84077-bfc3-4bf3-8883-cd523579cea2)
+
+
+
 Superstore Sales Dashboard
 Project Overview
 This project aims to contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting. The goal is to create an interactive dashboard that allows users to explore the data at various levels of granularity, identify trends, and make informed decisions.
